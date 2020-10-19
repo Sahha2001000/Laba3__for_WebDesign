@@ -288,7 +288,7 @@ Lab 3 start
 
 .test__bg-block {
     padding: 100px 0 200px;
-    background-image: url(img/test__bg-block__bg.jpg);
+    background-image: url(../img/test__bg-block__bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -322,7 +322,7 @@ Lab 3 start
     правой границы: 3px и зеленым цветом; нижней границы: 8px и черным цветом;
     верхней границы 4px и желтым цветом;
     */
-    background-image: url(img/block_2__bg.jpg);
+    background-image: url(../img/block_2__bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-top: 4px solid yellow;
@@ -333,7 +333,7 @@ Lab 3 start
 }
 
 .block3__inner {
-    background-image: url(img/block_3__bg.jpg);
+    background-image: url(../img/block_3__bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment:  fixed;
@@ -341,7 +341,7 @@ Lab 3 start
 
 .block3 {
     /**/
-    background-image: url(img/block_3__top.png), url(img/block_3__bottom.png);
+    background-image: url(../img/block_3__top.png), url(../img/block_3__bottom.png);
     background-position: top, bottom;
     background-repeat: no-repeat, repeat-x;
     background-size: 30%, 30%;    
